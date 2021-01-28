@@ -1,6 +1,8 @@
 import { OnInit } from '@angular/core';
 import { Component } from '@angular/core';
 // test changes ..
+
+//BUG CHANGE IM DNGs
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
